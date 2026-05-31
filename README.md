@@ -113,6 +113,9 @@
 
 ## 💪 AI Fitness Trainer
 
+🔗 Repository:  
+👉 https://github.com/shreyash-07-ai/AI-Fitness-Trainer
+
 ### Features
 ✔ Pose Estimation  
 ✔ Exercise Detection  
